@@ -1,2 +1,2 @@
 # Hospital-management-sys
-SQL Database for hospital management system 
+Transact-SQL Database for hospital management system 
